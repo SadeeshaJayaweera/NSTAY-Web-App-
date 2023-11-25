@@ -3,8 +3,6 @@
 Welcome to NSTAY, the go-to platform for NSBM Green University students to find the best boardings with past reviews and detailed contact information. This web application is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and integrates seamlessly with Google Maps API for a user-friendly experience.
 
 <img src="UI NSTAY/NSTAY.png">
-<br>
-<img src="UI NSTAY/Product Page .png">
 
 ## Table of Contents
 - [Features](#features)

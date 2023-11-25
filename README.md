@@ -26,7 +26,7 @@ Welcome to NSTAY, the go-to platform for NSBM Green University students to find 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nstay-web-app.git
+   git clone https://github.com/SadeeshaJayaweera/nstay-web-app.git
    ```
 
 2. **Navigate to the Project Directory:**

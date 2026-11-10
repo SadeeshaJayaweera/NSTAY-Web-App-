@@ -14,9 +14,16 @@
 ## 📸 Application Showcase & Screenshots
 
 ### 1. Modern Homepage & Green Campus Proximity Finder
-*Featuring real NSBM student life photography, quick junction search, and navigation actions.*
+*Featuring real NSBM student life photography, quick junction search, parallel navigation actions, and complete campus guide.*
 
-![NSTAY Homepage](screenshots/01_homepage.png)
+<details open>
+<summary><b>View Full Scrollable Homepage</b></summary>
+
+![NSTAY Full Homepage](screenshots/01_homepage_full.png)
+</details>
+
+*Top Hero & Navigation View:*
+![NSTAY Homepage Hero](screenshots/01_homepage.png)
 
 ---
 
@@ -52,6 +59,27 @@
 *Live metrics, listing controls, reservation review pipelines, and vacancy management.*
 
 ![NSTAY Host Dashboard](screenshots/06_host_admin_dashboard.png)
+
+---
+
+### 7. Campus Life & Surrounding Activities (`/activities`)
+*Comprehensive guide to NSBM sports complex, swimming pool, late-night student hangouts, transit hubs, and study pods.*
+
+![NSTAY Activities Page](screenshots/07_activities_page.png)
+
+---
+
+### 8. About NSTAY & Faculty of Computing (`/about`)
+*Aerial university photography, project origin under the Faculty of Computing, and mission highlights.*
+
+![NSTAY About Page](screenshots/08_about_page.png)
+
+---
+
+### 9. Student Support & Inquiries (`/contact`)
+*Interactive inquiry submission, 24/7 student helpline contacts, and direct university campus coordinates.*
+
+![NSTAY Contact Page](screenshots/09_contact_page.png)
 
 ---
 
